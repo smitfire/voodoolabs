@@ -1,9 +1,5 @@
-### Hi there 👋
+[![Header](/assets/baner.jpg)](https://Tvooo.dev/)
 
-![Image Banner](/assets/banner.jpg)
-
-<h1 align="center">Hi 👋, I'm Nick</h1>
-<h3 align="center">Software engineer with six years of experience in software. Self-directed and analytically minded with expertise in web application development, data cultivation / ingestion / manipulation / analysis.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=voodoolabs" alt="voodoolabs" /> </p>
 
